@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reboot2Recovery</string>
+    <string name="app_desc">This app allow you to reboot directly to your Transformer Recovery. REQUIRE ROOT.</string>
+</resources>
